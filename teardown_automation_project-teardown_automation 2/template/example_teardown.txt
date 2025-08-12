@@ -1,0 +1,86 @@
+Morpheus Space 
+________________
+
+
+ Website  |  Crunchbase  |  LinkedIn | 
+________________
+
+
+
+
+1. Organization Mapping: (use Crunchbase, LinkedIn, Website)
+1. Company description: Morpheus Space is a NewSpace company specializing in compact yet powerful electric propulsion systems for smallsat operators addressing orbital congestion and mobility challenges. Their newest propulsion system is the GO2, an efficient and cost-effective propulsion system, enabling mobility throughout the entire mission lifetime.
+2. Industry: Defense and Space Manufacturing
+3. Estimated Revenue/Size: 
+   * 51-200 employees
+   * Estimated Revenue: between $5-6M
+   * The company is transitioning into full-scale commercial production, with demand growing steadily as their propulsion systems demonstrate successful in-orbit performance. Recently, they expanded into a new facility in Dresden, Germany, signaling both increased manufacturing capacity and operational maturity. These developments strongly indicate that Morpheus Space is now revenue-generating and commercially scaling. 
+4. Customers / Who do they Sell to: 
+   * Morpheus Space primarily sells to small satellite manufacturers and constellation operators. These companies are at the forefront of a rapidly evolving space economy, transforming how satellites are deployed, maneuvered, and managed in low Earth orbit (LEO). Morpheus’s electric propulsion systems enable precise satellite mobility, contributing to more organized orbital traffic, improved mission flexibility, and long-term solutions for space sustainability, including active space debris mitigation and deorbiting capabilities. In addition to commercial clients, the company has also been contracted by U.S. government agencies, including NASA and the U.S. Air Force. 
+   * Customers:
+      1. Most of Morpheus Space’s contracts remain undisclosed. Despite this, the company’s commercial traction is evident: since mid-2024, their German manufacturing facility has been producing over 100 propulsion systems per year, with the capacity to scale production up to 500 units annually based on demand.
+   * Morpheus Space and Rocket Factory Augsburg (RFA) sign Memorandum of Understanding
+      1. RFA is one of Europe’s leading launch service providers, known for its RFA ONE launch vehicle system.
+      2. The MoU suggests a potentially significant commercial partnership in the near future. 
+      3. Collaboration likely centers around integrating Morpheus’s propulsion systems into RFA’s orbital deployment infrastructure.
+5. Org Chart:
+   * Key decision makers - CEO, CFO, Founders
+      1. CEO: Kevin Lausten
+      2. Co-founder and CTO: Daniel Bock
+      3. COO: Martin Kelterer
+   * Champions - Head of Supply Chain, Finance Leaders
+      1. Head of Sales: Brennan Allen
+      2. VP of Finance and Strategy: Adam Kuebler
+6. Shared Connections:
+   * Have to look further
+
+
+2. Where is the Company today: (use CB, LinkedIn, Website, News & Media, ChatGPT)
+* Stage: Pilot, First deployment, Production, Scaling (Understand the needs at each stage as they have different goals and hurdles)
+   * Morpheus Space is in the scaling phase, having successfully demonstrated its propulsion technology through multiple in-orbit missions (e.g., NanoFEEP, GO-2) and deployments with several commercial partners. With a newly opened manufacturing facility in Dresden, Morpheus is now equipped to meet increasing demand and transition into full-scale production. 
+* Funding History:
+   * Total raised: $33M (Seed, Series A, $90,000 NASA grant)
+   * Last raised: $28M Series A (September 2022)
+   * Notable investor:
+      * Alpine Space Ventures, Morpheus Ventures, Vsquared Ventures, Lavrock Ventures, Airbus Ventures, In-Q-Tel, Pallas Ventures, Techstars Ventures
+* News/Media:
+   * Interesting Article as to why Morpheus Space holds a strong position in the small satellite space
+   * *Recent Contracts*: you can find this information on company websites or ask ChatGPT. This is extremely helpful to reference in calls and understand the opportunity / size, where and when Klear can actually step in and offer support
+      * Partnership with D‑Orbit to in-orbit test GO‑2 (March, 2025)
+      * Partnership with Kayhan Space (November 2022)
+         * The partnership combines the two companies software technology to safely manage space traffic congestion. 
+      * They have been contracted by NASA and some other US government agencies, but I’m unable to find sources
+      * “Anticipated supply in the market isn’t coming online as fast as people hoped, while demand grows unabated” (Space News)”
+         * “In the last year, our number of contracts has increased by 250% and is on pace to grow more,” (István Lőrincz, former president of Morpheus)
+         * “We are going to show by example that the NewSpace industry needs to implement scalable business and production solutions as fast as possible to meet the expected projections.” (István Lőrincz)
+      * Current and prospective customers in the NewSpace industry have voiced concerns over Morpheus Space’s manufacturing bottlenecks, prompting the company’s executives to scale up propulsion production capacity (2024)
+         * “Nobody has the time to wait a year for any subsystem” (Bock)
+* Awards & Expansion:
+   * Morpheus Space Nominated for the Gründerszene Award in Deep Tech & AI (2024)
+   * Morpheus Space manufacturing facility expansion in Dresden. 
+   * NASA Entrepreneur’s Challenge (2021) 
+* Conferences/events:
+   * Space Tech Expo USA (2025)
+   * Paneled at SmallSat Europe (2025)
+   * Small Satellite Conference (2024) 
+
+
+3. Klear’s Strategic Fit: (This will be a part of the battle cards)
+* How does Klear Support/ Opportunity for Klear:
+   * With the LEO satellite market continuing to expand rapidly, Morpheus Space wants to position itself as the go-to propulsion provider for this next generation of smallsat missions. Their electric propulsion systems have proven flight/space worthy and are now entering a production ramp-up phase to meet growing commercial and government demand. However, transitioning from a successful pilot phase to full-scale production requires not only technical execution but also strong financial infrastructure. This is where Klear can play a critical role, by helping Morpheus manage the capital intensity of scaling manufacturing, bridge long cash conversion cycles, and prepare for increasingly complex international contracts. 
+* Pain point: Have a ton of demand, what is causing the backlog? Are they in a capital-intensive phase?
+   * Significant increase in demand due to validation of technology and market traction
+   * Capital-intensive production ramp up with new factory capacity (up to 500 units/year)
+   * Long lead times and delayed payments typical in aerospace and defense contracts
+   * Supply chain and inventory management challenges as they scale
+* Targeted Klear Value: Where can Klear best support? Shorten O2C? Fund Large PO? Dealing with foreign customers? Help with customer late payments?
+   * Fund large purchase orders to accelerate manufacturing throughput
+      * Shorten Order-to-Cash cycle by bridging long recievables (especially with slow-paying customers or government contracts)
+   * Support international growth by managing foreign payment cycles and exposure
+      * They have a big presence in the European Space Market
+   * Act as a strategic finance partner to help Morpheus navigate the transition from startup to scaled supplier
+* Overall Objective: Summarize strategic approach
+   * Enable Morpheus Space to capitalize on their momentum by unlocking working capital and operational flexibility. Klear can help the company scale from production-proven to industry-dominant by smoothing cash flows, funding growth, and supporting rapid order execution.
+* Opportunity: Summarize the opportunity 
+   * “Startups often excel at innovating technologies, designs and development, but getting to quality and then scaling that quality to full-rate production is an issue” 
+   * Klear can step in as the strategic partner that helps Morpheus overcome the classic challenge of scaling from proven technology to manufacturing maturity and volume production.

@@ -1,0 +1,49 @@
+1. **The Company Name**
+<!-- Instruction: Only return the company name. -->
+
+2. **Company description:**
+<!-- Instruction: Provide a 2-3 sentence summary of the company highlighting their product, key differentiators and strategy. -->
+3. **Industry:**
+<!-- Instruction: Bullet point the industry sectors the company operates. 2 sentence max. -->
+4. **Estimated Revenue and company Size:**
+<!-- Instruction: Provide an estimated revenue and company size. Use numeric values and bullet points (2-3 sentences). -->
+5. **Customers/Who do they Sell to:** 
+<!-- Instruction: Bullet point the company's customers or customer type. 3-4 sentences max. -->
+Org Chart:
+   6. **Key decision makers - CEO, CFO, CTO, Founders, Head of Supply Chain, Finance Leaders** 
+   <!-- Instruction: Bulletpoint the key team members names and position of the company.  -->
+7. Shared Connections:
+
+Where is the Company today
+
+8. **Stage: Pilot, First deployment, Production, Scaling**
+<!-- Instruction: Choose one from ['Pilot', 'First deployment', 'Production', 'Scaling']. Base your answer on the latest product maturity or deployment scale. Summarize your findings in up to 5 sentences. -->
+Funding History:
+   9. **Total funding raised:**
+   <!-- Instruction: Provide a numerical estimate of total funding raised (e.g., "$40M"). If unknown, say "Unknown". 1 sentence. -->
+   10. **Last funding raised:**
+   <!-- Instruction: Specify the most recent funding round (e.g., "Series A", "Seed") and date (e.g., "June 2023"). 1 sentence. -->
+   11. **Notable investor (VC Firms):**
+   <!-- Instruction: List key investors or VC firms involved in funding rounds. 2-3 sentence -->
+12. **Recent News/Media, Blogs:**
+<!-- Bullet point any significant media coverage, blogs, or articles in the last 6–12 months and hyperlink the source. Summarize each keeping each article to 2-3 sentences. -->
+13. **Contracts/Awards won:** 
+<!-- Instruction: Bulletpoint any recent partnerships, customer contracts, or large deals announced. Be specific and short. -->
+14. **Government Contracts:** 
+<!-- Instruction: List any relevant government contracts awarded, including the amount and project details. -->
+15. **Recent Expansion:**
+<!-- Instruction: Include notable awards or mentions, as well as any geographical or operational expansion news. -->
+16. **Conferences/events attended:**
+<!-- Instruction: Bulletpoint any major industry events or conferences the company participated in or presented at recently. -->
+
+Klear’s Strategic Fit:
+
+How does Klear Support/ Opportunity for Klear:
+   17. **Pain point: Have a ton of demand, what is causing the backlog? Are they in a capital-intensive phase?**
+   <!-- Instruction: Identify operational or financial frictions the company may face (e.g., backlog due to funding, slow O2C cycle, supply chain issues). I want you to answer the question in 3 sentences.  -->
+   18. **Targeted Klear Value: Where can Klear best support? Shorten O2C? Fund Large PO? Dealing with foreign customers? Help with customer late payments?**
+    <!-- Instruction: Suggest specific Klear offerings that would be relevant (e.g., funding large purchase orders, advancing payments, smoothing customer receivables, financial advice, FX purchase orders). I want you to answer the question in 3 sentences. -->
+   19. **Overall Objective: Summarize the strategic approach in supporting company**
+   <!-- INSTRUCTION: Based on all prior context, summarize in 3 sentences how *Klear* can best support the company’s strategic growth. Focus on actionable value. DO NOT summarize the company’s mission or history. -->
+   20. **Opportunity: Summarize this opportunity for Klear**
+   <!-- Instruction: Frame the entire Klear opportunity in a simple value proposition — Why now? Why this company? Why Klear? I want you to answer the question in 3 sentences. -->

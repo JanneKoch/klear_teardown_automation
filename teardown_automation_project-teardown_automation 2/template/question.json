@@ -1,0 +1,103 @@
+[
+    {
+      "id": "the_company_name",
+      "title": "1. The Company Name",
+      "instruction": "Only return the company name."
+    },
+    
+    {
+      "id": "company_description",
+      "title": "2. Company description",
+      "instruction": "Provide a 2-3 sentence summary of the company highlighting their product, key differentiators and strategy."
+    },
+    {
+      "id": "industry",
+      "title": "3. Industry",
+      "instruction": "Bullet point the industry sectors the company operates."
+    },
+    {
+      "id": "revenue_company_size",
+      "title": "4. Estimated Revenue and company Size",
+      "instruction": "Provide an estimated revenue and company size. Use numeric values and bullet points (2-3 sentences)."
+    },
+    {
+      "id": "company_customers",
+      "title": "5. Customers/Who do they Sell to",
+      "instruction": "Bullet point the company's customers or customer type. Add a brief description about each customer and how they relate to the company."
+    },
+    {
+      "id": "key_decision_makers",
+      "title": "6. Key decision makers - CEO, CFO, CTO, Founders, Head of Supply Chain, Finance Leaders",
+      "instruction": "Bulletpoint the key team members names and position of the company."
+    },
+    {
+      "id": "shared_connections",
+      "title": "7. Shared Connections",
+      "instruction": "Provide a brief summary of possible shared connections. Keep it short."
+    },
+    {
+      "id": "company_stage",
+      "title": "8. Stage: Pilot, First deployment, Production, Scaling",
+      "instruction": "Choose one from ['Pilot', 'First deployment', 'Production', 'Scaling']. Base your answer on the latest product maturity or deployment scale. Summarize your findings in up to 4 sentences."
+    },
+    {
+      "id": "total_funding",
+      "title": "9. Total funding raised",
+      "instruction": "Provide a numerical estimate of total funding raised (e.g., \"$40M\"). If unknown, say \"Unknown\"."
+    },
+    {
+      "id": "last_funding",
+      "title": "10. Last funding raised",
+      "instruction": "Specify the most recent funding round (e.g., \"Series A\", \"Seed\") and date (e.g., \"June 2023\")."
+    },
+    {
+      "id": "investors",
+      "title": "11. Notable investor (VC Firms)",
+      "instruction": "List key investors or VC firms involved in funding rounds in 2-3 sentences."
+    },
+    {
+      "id": "recent_news",
+      "title": "12. Recent News, Media, Blogs",
+      "instruction": "Bullet point every significant media coverage, blogs, or articles in the last 6–12 months and hyperlink the source. Summarize each in 2-3 sentences."
+    },
+    {
+      "id": "contracts_awards",
+      "title": "13. Contracts/Awards won",
+      "instruction": "Bulletpoint any recent partnerships, customer contracts, or large deals announced. Be specific and short."
+    },
+    {
+      "id": "gov_contracts",
+      "title": "14. Government Contracts",
+      "instruction": "List any relevant government contracts awarded, including the amount and project details."
+    },
+    {
+      "id": "expansions",
+      "title": "15. Recent Expansion",
+      "instruction": "Provide any geographical or operational expansion news."
+    },
+    {
+      "id": "conferences",
+      "title": "16. Conferences/events attended",
+      "instruction": "Bulletpoint any major industry events or conferences the company participated in or presented at recently."
+    },
+    {
+      "id": "klear_pain_point",
+      "title": "17. Pain point: Have a ton of demand, what is causing the backlog? Are they in a capital-intensive phase?",
+      "instruction": "Identify operational or financial frictions the company may face (e.g., backlog due to funding, slow O2C cycle, supply chain issues). I want you to answer the question in 3 sentences."
+    },
+    {
+      "id": "targeted_klear_value",
+      "title": "18. Targeted Klear Value: Where can Klear best support? Shorten O2C? Fund Large PO? Dealing with foreign customers? Help with customer late payments?",
+      "instruction": "Suggest specific Klear offerings that would be relevant (e.g., funding large purchase orders, advancing payments, smoothing customer receivables, financial advice, FX purchase orders). I want you to answer the question in 3 sentences."
+    },
+    {
+      "id": "klear_overall_objective",
+      "title": "19. Overall Objective: Summarize the strategic approach in supporting company",
+      "instruction": "Based on all prior context, summarize in 3 sentences how *Klear* can best support the company’s strategic growth. Focus on actionable value. DO NOT summarize the company’s mission or history."
+    },
+    {
+      "id": "klear_opportunity",
+      "title": "20. Opportunity: Summarize this opportunity for Klear",
+      "instruction": "Frame the entire Klear opportunity in a simple value proposition — Why now? Why this company? Why Klear? I want you to answer the question in 3 sentences."
+    }
+]
