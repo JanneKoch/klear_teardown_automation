@@ -1,0 +1,20 @@
+# Environment variables (PREVENTS API KEYS FROM BEING COMMITTED)
+.env
+
+# Python cache files (prevents bloated repo)
+__pycache__/
+*.pyc
+*.pyo
+
+# Project specific files you already had
+teardown_app.db
+output/
+vector_stores/
+vector_store/
+
+# IDE settings
+.vscode/
+
+# Virtual environment
+venv/
+.venv/
