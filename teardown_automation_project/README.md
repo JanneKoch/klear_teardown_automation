@@ -56,16 +56,18 @@ python3.11 -m pip install -r requirements.txt
 python3.11 -m pip install crewai==0.148.0 flask beautifulsoup4 requests langchain langchain-openai langchain-community faiss-cpu
 ```
 
-### 4. Set Up OpenAI API Key
-**Important**: You must replace the placeholder API key with your own.
+### 4. Set Up OpenAI API Key and Serp API Key
+**Important**: You must replace the placeholder API key with your own in a .env file. Make sure to place it into a .gitignore. 
 
 1. Get your OpenAI API key from https://platform.openai.com/api-keys
-2. Connect your API key by establishing a secure .env file
+2. Get your Serp API key from https://serpapi.com/
+3. Connect your API keys by establishing a secure .env file
+
 
 ### 5. Template Files
 The required template files are already included:
 - `template/research_template.txt` - Defines the teardown report structure
-- `template/klear_context.txt` - Provides context for strategic analysis
+- `template/klear_context.txt` - Provides company context for strategic analysis
 - `template/questions.json` - Defines instructions for each question
 - `template/example_teardown.txt` - Provides a complete teardown example
 
