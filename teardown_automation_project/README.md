@@ -42,8 +42,9 @@ cd teardown_automation_project
 
 ### 3. Quick Setup (Recommended)
 ```bash
-# Run the setup script
-./setup.sh
+# Run the setup script (troubleshoot this)
+chmod +x setup.sh
+./setup.sh 
 ```
 
 ### 3. Manual Installation
