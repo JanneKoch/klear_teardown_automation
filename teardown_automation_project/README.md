@@ -307,4 +307,10 @@ const jobData = await statusResponse.json();
 2. Update API endpoints in `app.py` for backend changes
 3. Adjust database models in `models.py` for data structure changes
 
+### Adding a Searchable Database
+1. Connect to a live Google Sheet -> fill in columns by extracting keywords from teardown
+    a. Quick: can most likely be done in less than a week, might run into extraction complications. 
+2. Build a custom database integrated into Web Application
+    a. Slower: build to functionality will be longer, customizable search filters, easier extraction
+
 ## License
