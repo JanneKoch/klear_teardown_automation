@@ -37,12 +37,15 @@ python3 --version
 ### 2. Clone and Setup
 ```bash
 git clone <repository-url>
-cd teardown_automation_project
+cd klear_teardown_automation
 ```
 
 ### 3. Quick Setup (Recommended)
 ```bash
-# Run the setup script (troubleshoot this)
+# Run the setup script
+./setup.sh
+
+#or if having trouble try:
 chmod +x setup.sh
 ./setup.sh 
 ```
