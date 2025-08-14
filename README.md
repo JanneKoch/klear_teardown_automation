@@ -56,7 +56,7 @@ chmod +x setup.sh
 python3.11 -m pip install -r requirements.txt
 
 # Or install manually:
-python3.11 -m pip install crewai==0.148.0 flask beautifulsoup4 requests langchain langchain-openai langchain-community faiss-cpu
+python3.11 -m pip install crewai==0.148.0 flask beautifulsoup4 requests langchain langchain-openai langchain-community faiss-cpu reportlab google-search-results
 ```
 
 ### 4. Set Up OpenAI API Key and Serp API Key
