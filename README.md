@@ -59,7 +59,7 @@ python3.11 -m pip install -r requirements.txt
 python3.11 -m pip install crewai==0.148.0 flask beautifulsoup4 requests langchain langchain-openai langchain-community faiss-cpu reportlab google-search-results
 ```
 
-### 4. Set Up OpenAI API Key and Serp API Key
+### 4. Set Up OpenAI API Key and Serp API Key in an .env file
 **Important**: You must replace the placeholder API key with your own in a .env file. Make sure to place it into a .gitignore. 
 
 1. Get your OpenAI API key from https://platform.openai.com/api-keys
