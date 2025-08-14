@@ -65,6 +65,7 @@ python3.11 -m pip install crewai==0.148.0 flask beautifulsoup4 requests langchai
 1. Get your OpenAI API key from https://platform.openai.com/api-keys
 2. Get your Serp API key from https://serpapi.com/
 3. Connect your API keys by establishing a secure .env file
+4. Follow this template: OPENAI_API_KEY="" and SERPAPI_API_KEY=""
 
 
 ### 5. Template Files
